@@ -1,1 +1,1 @@
-# Aztec-node
+# Aztec node
